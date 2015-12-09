@@ -6,7 +6,7 @@ Para criar um projeto no modo interativo:
 
 `mvn archetype:generate -DarchetypeGroupId=lab -DarchetypeArtifactId=lab-archetype-spring-mvc -DarchetypeVersion=0.0.1-SNAPSHOT`
 
-Para criar um projeto com `groupId=lab`,  `artifactId=lab-temp`, `version=0.0.1-SNAPSHOT` e `package=lab` com um único comando:
+Para criar um projeto com groupId=**lab**,  artifactId=**lab-temp**, version=**0.0.1-SNAPSHOT** e package=**lab** com um único comando:
 
 `mvn archetype:generate -DarchetypeGroupId=lab -DarchetypeArtifactId=lab-archetype-spring-mvc -DarchetypeVersion=0.0.1-SNAPSHOT -DgroupId=lab -DartifactId=lab-temp -Dversion=0.0.1-SNAPSHOT -Dpackage=lab -DinteractiveMode=false`
 
