@@ -23,3 +23,7 @@ Documentações utilizadas para criar o archetype:
 * [Introduction to Archetypes](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)
 * [Guide to Creating Archetypes](https://maven.apache.org/guides/mini/guide-creating-archetypes.html)
 * [Criando um archetype no maven](http://blog.camilolopes.com.br/criando-um-archetype-no-maven/)
+
+## ToDo
+
+* Mover/renomear esse projeto. Ele não é um lab! Ele é um archetype do Maven.
